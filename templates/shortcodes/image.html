@@ -1,0 +1,13 @@
+<div {% if class %}class="{{class}}"{% endif %}>
+    <iframe
+        src="https://www.youtube.com/embed/{{id}}{% if autoplay %}?autoplay=1{% endif %}"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen>
+    </iframe>
+</div>
+
+<!--
+{% set image = resize_image(path=path, width=width, height=height, op=op) %}
+<img src="{{ image.url }}" />
+-->

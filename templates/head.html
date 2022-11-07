@@ -1,0 +1,20 @@
+{% extends "after-dark/templates/index.html" %}
+{% block content %}
+
+<!-- copied from theme -->
+{% if config.extra.after_dark_menu %}
+<header>
+    <nav itemscope itemtype="http://schema.org/SiteNavigationElement">
+    {% for item in config.extra.after_dark_menu %}
+        <a itemprop="url"
+           class="{% if item.url | replace(from="$BASE_URL", to=config.base_url) == current_url %}active{% endif %}"
+           href="{{ item.url | safe | replace(from="$BASE_URL", to=config.base_url) }}">
+            <span itemprop="name">{{ item.name }}</span></a>
+    {% endfor %}
+    </nav>
+</header>
+{% endif %}
+
+<h1>Oi mate get the fuck off. It's empty.</h1>
+<a href="blog">Check out my blog instead</a>
+{% endblock content %}
