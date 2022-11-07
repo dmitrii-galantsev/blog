@@ -1,6 +1,6 @@
 theme = "after-dark"
-base_url = "https://popi.tech/blog"
-compile_sass = true
+base_url = "/"
+compile_sass = false
 
 taxonomies = [
     # You can enable/disable RSS
@@ -13,8 +13,8 @@ highlight_code = true
 [extra]
 author = "PoPi"
 after_dark_menu = [
-    { name = "Home", url = "$BASE_URL", weight = 0 },
-    { name = "Blog", url = "$BASE_URL/blog", weight = 1 },
+    { name = "Home", url = "/", weight = 0 },
+    { name = "Blog", url = "/blog", weight = 1 },
 ]
 socials = [ ]
 paginate_by = 15
