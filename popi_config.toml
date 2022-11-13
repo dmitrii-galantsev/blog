@@ -1,5 +1,5 @@
 theme = "after-dark"
-base_url = "/"
+base_url = "https://www.popi.tech/blog"
 compile_sass = true
 
 taxonomies = [
