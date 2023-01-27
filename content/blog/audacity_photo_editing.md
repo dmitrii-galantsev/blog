@@ -20,43 +20,43 @@ Use RAW file types and don't clobber the headers
 ## My examples:
 
 bass_boost
-![image bass_boost](/blog/audacity_glitch_art/bass_boost.jpg)
+![image bass_boost](/blog/audacity_glitch_art_images/bass_boost.jpg)
 
 change_speed_1.001
-![image change_speed_1.001](/blog/audacity_glitch_art/change_speed_1.001.jpg)
+![image change_speed_1.001](/blog/audacity_glitch_art_images/change_speed_1.001.jpg)
 
 delay+heavy_bass_boost
-![image delay+heavy_bass_boost](/blog/audacity_glitch_art/delay+heavy_bass_boost.jpg)
+![image delay+heavy_bass_boost](/blog/audacity_glitch_art_images/delay+heavy_bass_boost.jpg)
 
 delay
-![image delay](/blog/audacity_glitch_art/delay.jpg)
+![image delay](/blog/audacity_glitch_art_images/delay.jpg)
 
 distortion
-![image distortion](/blog/audacity_glitch_art/distortion.jpg)
+![image distortion](/blog/audacity_glitch_art_images/distortion.jpg)
 
 heavy_bass_boost
-![image heavy_bass_boost](/blog/audacity_glitch_art/heavy_bass_boost.jpg)
+![image heavy_bass_boost](/blog/audacity_glitch_art_images/heavy_bass_boost.jpg)
 
 invert
-![image invert](/blog/audacity_glitch_art/invert.jpg)
+![image invert](/blog/audacity_glitch_art_images/invert.jpg)
 
 phaser
-![image phaser](/blog/audacity_glitch_art/phaser.jpg)
+![image phaser](/blog/audacity_glitch_art_images/phaser.jpg)
 
 pitch_shift
-![image pitch_shift](/blog/audacity_glitch_art/pitch_shift.jpg)
+![image pitch_shift](/blog/audacity_glitch_art_images/pitch_shift.jpg)
 
 reverb
-![image reverb](/blog/audacity_glitch_art/reverb.jpg)
+![image reverb](/blog/audacity_glitch_art_images/reverb.jpg)
 
 reverse
-![image reverse](/blog/audacity_glitch_art/reverse.jpg)
+![image reverse](/blog/audacity_glitch_art_images/reverse.jpg)
 
 tremolo
-![image tremolo](/blog/audacity_glitch_art/tremolo.jpg)
+![image tremolo](/blog/audacity_glitch_art_images/tremolo.jpg)
 
 vocoder
-![image vocoder](/blog/audacity_glitch_art/vocoder.jpg)
+![image vocoder](/blog/audacity_glitch_art_images/vocoder.jpg)
 
 wahwah
-![image wahwah](/blog/audacity_glitch_art/wahwah.jpg)
+![image wahwah](/blog/audacity_glitch_art_images/wahwah.jpg)

@@ -22,7 +22,7 @@ TL;DR:
 KDE calls **"Alt Gr"** a **"Compose Key"**.  
 See the screenshow below on how to set it.
 
-![image_kde_compose_key](/blog/umlaut_on_kde/kde_compose_key.jpg)
+![image_kde_compose_key](/blog/umlaut_on_kde_images/kde_compose_key.jpg)
 
 ## Enable Alt Gr on Gnome
 
